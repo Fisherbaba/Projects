@@ -1,30 +1,32 @@
-#Student Performance Analysis
-##Project Overview
+# Student Performance Analysis
+
+## Project Overview
+
 This project is designed to analyze student performance data. The analysis includes data preprocessing, feature engineering, exploratory data analysis (EDA), and building a linear regression model to predict final grades based on various factors.
 
-##Table of Contents
-Project Overview
-Features
-Installation
-Usage
-Dataset
-Data Preprocessing
-Modeling
-Evaluation
-Results
-Contributing
-License
-Contact
-Features
-**Data Preprocessing**: Handling missing values and removing unnecessary predictors.
-**Feature Engineering**: Creating dummy variables for categorical features.
-**Exploratory Data Analysis (EDA)**: Visualizing data distributions and correlations.
-**Linear Regression Model**: Building and evaluating a predictive model.
-**Assumption Checking**: Validating model assumptions using statistical tests.
-Installation
-To run this project locally, you will need to have Python installed along with the required libraries. You can install the necessary packages using the following commands:
+## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Data Preprocessing](#data-preprocessing)
+- [Modeling](#modeling)
+- [Evaluation](#evaluation)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
+## Features
+
+- Data Preprocessing: Handling missing values and removing unnecessary predictors.
+- Feature Engineering: Creating dummy variables for categorical features.
+- Exploratory Data Analysis (EDA): Visualizing data distributions and correlations.
+- Linear Regression Model: Building and evaluating a predictive model.
+- Assumption Checking: Validating model assumptions using statistical tests
+- 
 The dataset used in this project is a CSV file containing student performance data. The dataset includes various predictors such as previous grades, parental support, and more. The target variable is the final grade.
 
 
