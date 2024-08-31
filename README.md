@@ -28,7 +28,8 @@ This project is designed to analyze student performance data. The analysis inclu
 - Assumption Checking: Validating model assumptions using statistical tests
 - 
 The dataset used in this project is a CSV file containing student performance data. The dataset includes various predictors such as previous grades, parental support, and more. The target variable is the final grade.
-
+[Student Performance Predictions Dataset on Kaggle](https://www.kaggle.com/datasets/haseebindata/student-performance-predictions/data)
+ 
 
 **Data Preprocessing**
 Removed unnecessary columns (e.g., student ID, school).
